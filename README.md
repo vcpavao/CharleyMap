@@ -1,2 +1,2 @@
-# CharleyMap
-Map of missing persons data from CharleyProject website created using web scraping
+# Charley Map
+Map of missing persons data from the Charley Project website (http://charleyproject.org/) created using Python web scraping.
