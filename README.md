@@ -1,3 +1,3 @@
 # Charley Map
 
-Node.js app that generates map of missing persons data from the Charley Project website (http://charleyproject.org/)
+In progress: Node.js app to generate map of missing persons data from the Charley Project website (http://charleyproject.org/)
