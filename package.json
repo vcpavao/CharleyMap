@@ -1,0 +1,13 @@
+{
+  "name": "CharleyMap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/vcpavao/CharleyMap.git",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "lodash": "^4.17.21",
+    "puppeteer": "^21.9.0"
+  },
+  "type": "module"
+}
